@@ -1,2 +1,6 @@
+<<<<<<< Updated upstream
 Hi welcome to github test
 bugfixed
+=======
+Hi welcome to github test 2
+>>>>>>> Stashed changes
